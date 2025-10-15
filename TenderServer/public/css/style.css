@@ -1,0 +1,5 @@
+body { background-color: #f8f9fa; }
+.tender-item { padding: 1rem; border: 1px solid #e9ecef; border-radius: 8px; margin-bottom: 1rem; background: #fff; }
+.tender-item .meta { color: #6c757d; display: flex; gap: 1rem; flex-wrap: wrap; }
+.message { color: #6c757d; }
+.navbar-brand { font-weight: 600; }
